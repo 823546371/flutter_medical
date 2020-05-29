@@ -2,9 +2,9 @@
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://www.youtube.com/watch?v=lmOag4AH75E)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1nz4y197kq/)
 
 ### UI 
 
