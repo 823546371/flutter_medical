@@ -18,7 +18,7 @@ Bilibili : [Watch it on Bilibili]()
 
 ### Mediacal Final UI
 
-<center> <img src = '01.png' width = '250' ><img src = '02.png' width = '250' /><img src = '03.png' width = '250' /></center>
+<div align=center> <img src = '01.png' width = '250' ><img src = '02.png' width = '250' /><img src = '03.png' width = '250' /></div>
 
 
 
